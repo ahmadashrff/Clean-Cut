@@ -1,4 +1,4 @@
-# ✂️ Clean-Cut — Barbershop Management Syste
+# ✂️ Clean-Cut — Barbershop Management System
 
 A desktop application for managing barbershop operations, built with **C# Windows Forms** and **SQL Server LocalDB**. Clean-Cut covers everything from recording haircuts and tracking customer debts to managing expenses, deductions, and user permissions — all in one place.
 
@@ -218,3 +218,4 @@ This project is open-source. Feel free to use, modify, and distribute it.
 ---
 
 > Built with ❤️ for barbershop owners who want a simple, offline desktop solution to manage their business.
+
