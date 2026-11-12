@@ -217,5 +217,4 @@ This project is open-source. Feel free to use, modify, and distribute it.
 
 ---
 
-> Built with ❤️ for barbershop owners who want a simple, offline desktop solution to manage their business
-
+> Built with ❤️ for barbershop owners who want a simple, offline desktop solution to manage their business.
